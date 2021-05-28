@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jackwu945
 - 👀 I’m interested in coding everything I like
 - 🌱 I’m currently learning Web programming
-- 💞️ I’m looking to collaborate on EVERYTHING
+- 💞️ I’m looking to collaborate on EVERYONE
 - 📫 How to reach me ... ckuuaa@foxmail.com OR jackwu438@gmail.com
 
 <!---
