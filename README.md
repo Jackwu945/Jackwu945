@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Jackwu945
-- 👀 I’m interested in coding everything I like
-- 🌱 I’m currently learning Web programming
-- 💞️ I’m looking to collaborate on EVERYONE
-- 📫 How to reach me ... ckuuaa@foxmail.com OR jackwu438@gmail.com
+很高兴能在这个大型同性交友社区认识到各位(bushi)
+- 👋 我是JackWu,一名热爱开源的普通废物高中生
+- ❌ 不擅长数学
+- ⭕ 英语相对擅长
+- 🐵 半个老二刺猿
+- 💻 只要是我感兴趣的Project,我就会学习或者写
+- 🌱 个人的编程能力以及计算机知识储备不强(能被同龄的大佬甩几条街),但我会一直学习它
+- 💞️ 我梦想是同广大开源爱好者们共同合作开发
+- 📫 你可以这样联系我 ckuuaa@foxmail.com OR jackwu438@gmail.com
 
-<!---
-Jackwu945/Jackwu945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**虽不能至,心向往之,开源精神永植于我心!**
