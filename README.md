@@ -11,9 +11,10 @@
 - 💞️ 我梦想是同广大开源爱好者们共同合作开发
 - 📫 你可以这样联系我 ckuuaa@foxmail.com OR jackwu438@gmail.com
 **虽不能至,心向往之,开源精神永植于我心!**
+
 It`s really very pleasant to meet every here.
-I am JackWu,a normal and "crap" senior high school student who love open sorce.
-NOT good at Math.
+-I am JackWu,a normal and "crap" senior high school student who love open sorce.
+-NOT good at Math.
 Good at English.(By contrast)
 Half of a ACG lover.
 Good at Python and Internet Worn.
