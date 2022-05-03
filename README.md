@@ -12,16 +12,18 @@
 - 📫 你可以这样联系我 ckuuaa@foxmail.com OR jackwu438@gmail.com
 **虽不能至,心向往之,开源精神永植于我心!**
 
-It`s really very pleasant to meet every here.
+It`s really very pleasant to meet everyone here.
 - 👋 I am JackWu,a normal and "crap" senior high school student who love open sorce.
 - ❌ NOT good at Math.
 - ⭕ Good at English.(By contrast)
 - 🐵 Half of a ACG lover.
 - 🐍 Good at Python and Internet Worn.(By the api documents host by @SocialsisterYi)
-- ☕️ ~~Learning kotlin~~,Doing QQ bots based in mirai and ~~Android Project~~
+- ☕️ ~~Learning kotlin~~,Doing QQ bots based in mirai ~~and Android Project~~
 - 🤔 Will try to learn C.
 - 💻 I will learn and write just as long as I interested in.
 - 🌱 My ability of programming and the computer knowledge is not so much.But I will keep learning it.
 - 💞️ My dream is developing a project with everyone together.
 - 📫 Yon can contact me by ckuuaa@foxmail.com OR jackwu438@gmail.com.
 **"May not be able to, and anticipated" the spirit of open source will always in my heart.**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWu945&show_icons=true)
